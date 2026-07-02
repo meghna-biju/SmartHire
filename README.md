@@ -38,10 +38,10 @@ Backend
 ```bash
 cd backend
 mvn spring-boot:run
-
+```
 Frontend
-
+```
 cd smarthire-frontend
 npm install
 npm run dev
-
+```
