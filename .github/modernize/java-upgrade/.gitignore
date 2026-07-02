@@ -1,0 +1,29 @@
+# Java
+target/
+*.class
+
+# Maven
+.mvn/
+
+# Node
+node_modules/
+
+# React
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# H2 Database
+*.mv.db
+*.trace.db
+
+# Logs
+*.log
+
+# Environment
+.env
