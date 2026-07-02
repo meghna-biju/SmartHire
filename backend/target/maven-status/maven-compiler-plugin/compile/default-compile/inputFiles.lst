@@ -1,0 +1,12 @@
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/SmartHireApplication.java
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/controller/AuthController.java
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/controller/JobController.java
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/entity/JobApplication.java
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/entity/User.java
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/repository/JobRepository.java
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/repository/UserRepository.java
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/security/JwtFilter.java
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/security/JwtUtil.java
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/security/SecurityConfig.java
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/service/AuthService.java
+/Users/meghnabiju/SmartHire/backend/src/main/java/com/smarthire/service/JobService.java
